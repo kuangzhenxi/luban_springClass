@@ -10,6 +10,9 @@ public class LubanSpringV1Application {
 
 		int x=0;
 		int ldajldal=0;
+		int y=99;
+		int yy=00;
+		int zz=00;
 		SpringApplication.run(LubanSpringV1Application.class, args);
 	}
 
